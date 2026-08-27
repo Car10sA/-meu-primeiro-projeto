@@ -14,5 +14,5 @@ organizar e documentar projetos.
 HTML
 CSS
 GitHub
-##O que pretendo aprender
+## O que pretendo aprender
 Estou iniciando meus estudos em Programação Front-End e quero aprender a desenvolver páginas web utilizando HTML, CSS e JavaScript.
